@@ -1,6 +1,3 @@
-- lembre-se de utilizar as estruturas de código como ``esta aqui com ` `` ou
-```javascript
-
 # Questões objetivas
 
 Resposta: Letra A
