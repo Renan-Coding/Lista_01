@@ -4,7 +4,7 @@
 
 Resposta: Letra A
 
-a) Imprime os números pares de 1 a 10.
+A) Imprime os números pares de 1 a 10.
 
 ______
 
